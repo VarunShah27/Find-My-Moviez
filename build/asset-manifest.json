@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Find-My-Moviez/static/css/main.cb64ff8f.css",
+    "main.js": "/Find-My-Moviez/static/js/main.8ae2b0c4.js",
+    "index.html": "/Find-My-Moviez/index.html",
+    "main.cb64ff8f.css.map": "/Find-My-Moviez/static/css/main.cb64ff8f.css.map",
+    "main.8ae2b0c4.js.map": "/Find-My-Moviez/static/js/main.8ae2b0c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb64ff8f.css",
+    "static/js/main.8ae2b0c4.js"
+  ]
+}
