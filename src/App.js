@@ -121,7 +121,7 @@ function App() {
     <div className="App">
       <ThemeToggle />
       <header>
-        <h1>Movie Database</h1>
+        <h1>Find My Moviez</h1>
       </header>
       <main>
         <Search handleInput={handleInput} search={handleSearchEvent} />
